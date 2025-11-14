@@ -1,0 +1,5 @@
+.grid-reparto-uno{
+    display: grid;
+    grid-template-columns: auto;
+    grid-row: auto;
+}
